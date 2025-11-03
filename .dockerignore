@@ -1,0 +1,25 @@
+### Other
+___/
+Makefile
+README.md
+
+### Editor
+.idea/
+.vscode/
+
+### Git
+.git/
+.github/
+.gitignore
+
+### Docker
+Dockerfile
+docker-compose.yml
+
+### Python
+__pycache__/
+.venv/
+.env
+.env.sample
+requirements.txt
+requirements-pipdeptree.txt
